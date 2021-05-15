@@ -40,4 +40,5 @@ section h2
   width: 5vw;
   height: 5vw;
   background: #fff;
+  animation: animate 0.75s ease-in-out forwards;
 }
