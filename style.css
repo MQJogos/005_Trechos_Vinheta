@@ -42,3 +42,20 @@ section h2
   background: #fff;
   animation: animate 0.75s ease-in-out forwards;
 }
+@keyframes animate
+{
+  0%
+  {
+    opacity: 0;
+  }
+
+  50%
+  {
+    opacity: 0;
+   }
+
+  0%
+  {
+   opacity: 0;
+  }
+}
