@@ -60,7 +60,7 @@ section h2
   0%
   {
     opacity: 0;
-    transform: scale(0) translateY(100px);
+    transform: scale(0) translateY(1000px);
   }
 
   50%
