@@ -40,7 +40,7 @@ section h2
   display: block;
   width: 5vw;
   height: 5vh;
-  background:#fff;
+  background:#111;
   animation: animate 0.75s ease-in-out forwards;
 }
 .banner .blocks:nth-child(even)
